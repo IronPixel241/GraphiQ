@@ -1,6 +1,6 @@
 # GraphiQ
 
-A powerful, web-based Figma clone for seamless UI/UX design. GraphiQ allows designers to create, prototype, and collaborate effortlessly with an intuitive interface and a feature-rich environment.
+A powerful, web-based designing software for seamless UI/UX design. GraphiQ allows designers to create, prototype, and collaborate effortlessly with an intuitive interface and a feature-rich environment.
 
 ## 🚀 Features
 - **Vector-Based Design** – Create stunning designs with precise vector tools.
